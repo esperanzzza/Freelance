@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="112" height="17" viewBox="0 0 112 17">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        font-size: 5.02529px;
+      }
+
+      .cls-2 {
+        text-anchor: middle;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        font-family: "Domine-Bold";
+        font-weight: bold;
+      }
+
+      .cls-4 {
+        fill: #314a5b;
+      }
+    </style>
+  </defs>
+  <text transform="translate(56 16) scale(3.98)" class="cls-1"><tspan x="0" class="cls-2"><tspan class="cls-3">Freelancer<tspan class="cls-4">.</tspan></tspan></tspan></text>
+</svg>
